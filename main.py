@@ -1,4 +1,3 @@
-print("Hello World!")
 
 a = 1234
 print( a // 1000)
